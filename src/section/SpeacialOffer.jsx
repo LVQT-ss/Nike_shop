@@ -2,7 +2,7 @@
 const SpeacialOffer = () => {
     return (
         <div>
-
+            SpeacialOffer
         </div>
     )
 }
