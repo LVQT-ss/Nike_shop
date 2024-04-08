@@ -2,7 +2,6 @@ const App = () => (
 
   <main className="relative">
     Nav
-    {/* <Nav></Nav> */}
     <section className="xl:padding-1 wide:padding-r padding-b">
       Hero
     </section>
@@ -20,7 +19,7 @@ const App = () => (
       SpecialOffer
     </section>
     <section className="bg-pale-blue padding">
-      CustomerServices
+      CustomerReviews
     </section>
     <section className="padding-x sm:py-32 py-16 w-full">
       Subcribe
